@@ -96,7 +96,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 For questions, collaborations, or feedback, connect with me:  
 - **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/kunjan-chittroda)  
-- **GitHub**: [GitHub Profile](https://github.com/yourusername)
+- **GitHub**: [GitHub Profile](https://github.com/Kunjan3011)
 
 ---
 
