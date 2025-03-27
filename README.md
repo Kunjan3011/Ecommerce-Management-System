@@ -86,9 +86,6 @@ Order placed successfully! Total Amount: ₹2150.00
 - Add advanced reporting features like sales analysis and order trends.
 - Integrate visualization tools (e.g., Power BI) for inventory and sales data insights.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use and modify the code for educational purposes.
 
 ---
 
