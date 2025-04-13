@@ -2,6 +2,11 @@
 
 # Ecommerce Management System
 
+## Project Updates
+For the latest version of this project, visit:
+
+
+
 ## Project Overview
 
 The **Ecommerce Management System** is a Python-based application integrated with a MySQL backend, designed to streamline the management of inventory, customers, and orders. It simulates key functionalities of a real-world ecommerce platform, focusing on CRUD operations, relational database design, and efficient workflows. This project highlights proficiency in backend development, database management, and Python programming.
