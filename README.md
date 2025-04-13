@@ -4,7 +4,7 @@
 
 ## Project Updates
 For the latest version of this project, visit:  
-- **GitHub**: [Ecommerce Management System - Updated Version](https://github.com/Kunjan3011/Ecommerce-Management-System-new.git)
+- **GitHub**: [Ecommerce Management System - Updated Version]([https://github.com/Kunjan3011/Ecommerce-Management-System-new.git])
 
 ## Project Overview
 
